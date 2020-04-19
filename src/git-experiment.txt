@@ -1,2 +1,3 @@
 Hello
 
+Some new function
